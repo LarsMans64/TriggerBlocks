@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "triggerblocks",
+  "version": "${version}",
+
+  "name": "Trigger Blocks",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All Rights Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nl.teamdiopside.triggerblocks.fabric.TriggerBlocksFabric"
+    ]
+  },
+  "mixins": [
+    "triggerblocks.mixins.json",
+    "triggerblocks-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.20.1"
+  }
+}
