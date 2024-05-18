@@ -4,6 +4,7 @@
   "package": "nl.teamdiopside.triggerblocks.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "BlockWithEntityInvoker"
   ],
   "client": [
   ],

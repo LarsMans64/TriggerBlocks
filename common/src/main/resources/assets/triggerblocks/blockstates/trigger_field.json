@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "triggered=true": {
+      "model": "triggerblocks:block/trigger_field"
+    },
+    "triggered=false": {
+      "model": "triggerblocks:block/trigger_field"
+    }
+  }
+}

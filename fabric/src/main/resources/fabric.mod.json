@@ -15,6 +15,9 @@
   "entrypoints": {
     "main": [
       "nl.teamdiopside.triggerblocks.fabric.TriggerBlocksFabric"
+    ],
+    "client": [
+      "nl.teamdiopside.triggerblocks.fabric.TriggerBlocksFabricClient"
     ]
   },
   "mixins": [

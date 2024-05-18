@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "triggerblocks:block/trigger_field"
+  },
+  "render_type": "minecraft:translucent"
+}
