@@ -5,3 +5,7 @@
 /fabric/build/
 /forge/.gradle/
 /forge/build/
+/.idea/
+/forge/run/
+/fabric/run/
+/common/.gradle/
